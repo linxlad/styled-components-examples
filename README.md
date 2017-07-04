@@ -8,3 +8,5 @@ This [Create React App](https://github.com/facebookincubator/create-react-app) p
 yarn install
 yarn start
 ```
+
+Then open [http://localhost:3000/](http://localhost:3000/) to see the examples.
